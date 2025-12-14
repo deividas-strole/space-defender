@@ -103,4 +103,4 @@ You are free to use, modify, and distribute this project with attribution.
 
 ⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
 
-© 2025 Deividas Strole. All rights reserved.
+© Deividas Strole. All rights reserved.
