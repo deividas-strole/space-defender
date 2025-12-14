@@ -95,7 +95,7 @@ You are free to use, modify, and distribute this project with attribution.
 
 ## 📫 Connect
 
-- [DeividasStrole.com](https://deividasstrole.com)  
+- [Deividas Strole](https://deividasstrole.com)  
 - [LinkedIn](https://linkedin.com/in/deividas-strole)  
 - [YouTube](https://youtube.com/@deividas-strole)  
 - [Dev.to](https://dev.to/deividas-strole)  
