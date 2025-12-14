@@ -1,4 +1,4 @@
-# 🚀 Space Defender — HTML5 Canvas Game
+# 🚀 Space Defender — HTML5 Canvas Game by Deividas Strole
 
 **Space Defender** is a fast-paced, browser-based arcade shooter built with **vanilla JavaScript** and **HTML5 Canvas**. The player controls a futuristic spaceship, defends space from incoming enemies, and progresses through increasingly difficult levels.
 
@@ -66,8 +66,7 @@ This project demonstrates core JavaScript fundamentals often required in fronten
 
 ## 🎯 Purpose
 
-This game was created as a **portfolio project** to showcase practical JavaScript skills, animation techniques, and problem-solving abilities.
-
+**Space Defender** was created as a **portfolio project by Deividas Strole** to showcase practical JavaScript skills, animation techniques, and problem-solving abilities.
 Suitable for:
 - Frontend Developer portfolios
 - JavaScript learning references
