@@ -93,6 +93,12 @@ You are free to use, modify, and distribute this project with attribution.
 
 ---
 
+## 📫 Connect with Deividas Strole
+
+- LinkedIn: [linkedin.com/in/deividas-strole](https://linkedin.com/in/deividas-strole)  
+- YouTube: [youtube.com/@deividas-strole](https://youtube.com/@deividas-strole)
+
+
 ⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
 
 
